@@ -13,7 +13,7 @@ def batch_badge_creator(attendees)
 
 end
 
-def assign_rooms
+def assign_rooms(attendees)
   ray = []
   counter = 1
   attendees.each do |name|
