@@ -1,5 +1,5 @@
-def badge_maker(attendees)
-    puts "Hello, my name is #{attendees}"
+def badge_maker(badges)
+    puts "Hello, my name is #{badges}"
 
 end
 
